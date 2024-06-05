@@ -25,3 +25,12 @@ git commit --------> to upload the file into server
 # git push command -> upload local repo content to remote repo
 
 this is last command to upload the file in the server
+
+# Steps to upload files from local to pre build github repo
+
+1. Copy the repo link
+2. run command "git clone <link>"
+3. Build your projects and create files
+4. after completing project to add all files in the git repo run command "git add ."
+5. run command "git commit -m 'your message(compulsary)'"
+6. to add file in main branch run command "git push origin main"
