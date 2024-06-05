@@ -21,3 +21,7 @@ git commit --------> to upload the file into server
 2. modified -> the file has already present in the server but some modification has been done and not added as well as commited to the server
 3. staged -> the file is added but not commited so, it will not show in the server
 4. unmodified -> no changes has been done in the file
+
+# git push command -> upload local repo content to remote repo
+
+this is last command to upload the file in the server
